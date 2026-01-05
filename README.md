@@ -12,16 +12,20 @@ A custom 4-key macropad with 2 rotary encoders and an OLED display, powered by t
 
 ### 1. The Case
 ![Case Design](case_screenshot.png)
+
 *A view of the 3D printed enclosure designed in Fusion 360.*
 
 ### 2. The PCB
 ![PCB Layout](pcb_screenshot.png)
+
 *The 2-layer PCB design created in KiCad, featuring the XIAO footprint and encoder placement.*
 
 ### 3. The Schematic
 ![Schematic](schematic_screenshot.png)
+
 *The electrical connections showing the switch matrix and I2C connections.*
 
 ### 4. Assembly View
 ![Assembly](assembly_screenshot.png)
+
 *How the PCB fits into the case.*
