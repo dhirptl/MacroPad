@@ -26,6 +26,6 @@ A custom 4-key macropad with 2 rotary encoders and an OLED display, powered by t
 *The electrical connections showing the switch matrix and I2C connections.*
 
 ### 4. Assembly View
-![Assembly](assembly_screenshot.png)
+![Assembly](render_caseon_screenshot.png)
 
 *How the PCB fits into the case.*
